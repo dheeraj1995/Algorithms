@@ -3,7 +3,7 @@ package com.Algorithms;
 public class Welcome {
 
 	public static void main(String[] args) {
-		System.out.println("Welcome local");
+		System.out.println("Welcome local Extended");
 
 	}
 
